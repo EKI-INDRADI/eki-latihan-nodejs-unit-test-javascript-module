@@ -1,0 +1,27 @@
+{
+  "name": "eki-latihan-nodejs-unit-test-javascript-module",
+  "version": "1.0.0",
+  "description": "EKI INDRADI JAVASCRIPT UNIT TEST JS MODULE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-javascript-module.git"
+  },
+  "keywords": [
+    "EKI",
+    "INDRADI"
+  ],
+  "author": "EKI INDRADI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-javascript-module/issues"
+  },
+  "homepage": "https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-javascript-module#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
